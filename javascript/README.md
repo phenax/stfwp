@@ -1,5 +1,6 @@
 # STFWP - JavaScript
 
 ## Ideas
-* [Mangled code](./MANGLED_CODE.md)
-* [Speech Synthesis](./SPEECH.md)
+* [Mangled code](./mangled_code.md)
+* [Speech Synthesis](./speech.md)
+* [Fuck with their mouse pointer/keyboard](./input_devices.md)
