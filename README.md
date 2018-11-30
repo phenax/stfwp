@@ -6,5 +6,8 @@ This is a collection of snippets you can use sneak into a target's computer to f
 
 ### Contributing
 [Heres the standard CONTRIBUTING.md](./CONTRIBUTING.md)
-Feel free to add to this list of programming related prank ideas. There's no real benchmark here to what qualifies yet so take advantage and write whatever.
+
+If you have an idea, feel free to either create a PR or an issue describing the idea. Or you can even go to the issues section, pick an idea and create a PR for that.
+
+Feel free to add to this list of programming related prank ideas. There's no real benchmark here to what qualifies yet so take advantage and PR whatever.
 
